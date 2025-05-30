@@ -1,0 +1,14 @@
+C:\Users\nick.coombe\RiderProjects\ThreadPools\ThreadPools\bin\Debug\net9.0\ThreadPools.exe
+C:\Users\nick.coombe\RiderProjects\ThreadPools\ThreadPools\bin\Debug\net9.0\ThreadPools.deps.json
+C:\Users\nick.coombe\RiderProjects\ThreadPools\ThreadPools\bin\Debug\net9.0\ThreadPools.runtimeconfig.json
+C:\Users\nick.coombe\RiderProjects\ThreadPools\ThreadPools\bin\Debug\net9.0\ThreadPools.dll
+C:\Users\nick.coombe\RiderProjects\ThreadPools\ThreadPools\bin\Debug\net9.0\ThreadPools.pdb
+C:\Users\nick.coombe\RiderProjects\ThreadPools\ThreadPools\obj\Debug\net9.0\ThreadPools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nick.coombe\RiderProjects\ThreadPools\ThreadPools\obj\Debug\net9.0\ThreadPools.AssemblyInfoInputs.cache
+C:\Users\nick.coombe\RiderProjects\ThreadPools\ThreadPools\obj\Debug\net9.0\ThreadPools.AssemblyInfo.cs
+C:\Users\nick.coombe\RiderProjects\ThreadPools\ThreadPools\obj\Debug\net9.0\ThreadPools.csproj.CoreCompileInputs.cache
+C:\Users\nick.coombe\RiderProjects\ThreadPools\ThreadPools\obj\Debug\net9.0\ThreadPools.dll
+C:\Users\nick.coombe\RiderProjects\ThreadPools\ThreadPools\obj\Debug\net9.0\refint\ThreadPools.dll
+C:\Users\nick.coombe\RiderProjects\ThreadPools\ThreadPools\obj\Debug\net9.0\ThreadPools.pdb
+C:\Users\nick.coombe\RiderProjects\ThreadPools\ThreadPools\obj\Debug\net9.0\ThreadPools.genruntimeconfig.cache
+C:\Users\nick.coombe\RiderProjects\ThreadPools\ThreadPools\obj\Debug\net9.0\ref\ThreadPools.dll

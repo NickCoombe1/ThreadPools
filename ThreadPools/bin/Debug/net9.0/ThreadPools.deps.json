@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ThreadPools/1.0.0": {
+        "runtime": {
+          "ThreadPools.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreadPools/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
